@@ -1,0 +1,9 @@
+[submodule "SpaceVims"]
+	path = SpaceVims
+	url = https://github.com/SpaceVim/SpaceVim
+[submodule "rafi_vim_config"]
+	path = rafi_vim_config
+	url = https://github.com/rafi/vim-config
+[submodule "dotvims"]
+	path = dotvims
+	url = https://github.com/bling/dotvim
